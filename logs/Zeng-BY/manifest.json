@@ -3,7 +3,7 @@
   "team_id": "contest2026-237-xinghe",
   "github_login": "Zeng-BY",
   "generator": "claude-code-collector@1.3.0",
-  "updated_at": "2026-08-25T04:16:56.645Z",
+  "updated_at": "2026-08-25T04:27:26.282Z",
   "sessions": [
     {
       "session_id": "357eed38-3b85-4db0-a7fb-8d0845ca3523",
@@ -13,6 +13,18 @@
       "event_count": 315,
       "raw_event_count": 1126,
       "file_path": "logs/Zeng-BY/2026-08-25/claude-code__357eed38-3b85-4db0-a7fb-8d0845ca3523.jsonl",
+      "collection_mode": "cli",
+      "health": "ok",
+      "model": "mimo-v2.5"
+    },
+    {
+      "session_id": "a1d5060f-fa8e-49ac-8398-7c98bb8cdf41",
+      "tool": "claude-code",
+      "started_at": "2026-08-25T04:24:18.243Z",
+      "last_event_at": "2026-08-25T04:27:26.275Z",
+      "event_count": 122,
+      "raw_event_count": 454,
+      "file_path": "logs/Zeng-BY/2026-08-25\\claude-code__a1d5060f-fa8e-49ac-8398-7c98bb8cdf41.jsonl",
       "collection_mode": "cli",
       "health": "ok",
       "model": "mimo-v2.5"
